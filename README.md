@@ -1,2 +1,2 @@
-# giveeveryonemoney.github.io
-website for giveeveryonemoney.org
+# Give People Money
+Coming in early 2017
